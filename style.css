@@ -61,7 +61,7 @@ section {
 }
 
 #home {
-    height: 100vh;
+    height: 20vh;
     display: flex;
     align-items: center;
     background: linear-gradient(to right, #111827, #1f2937);
